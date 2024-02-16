@@ -10,14 +10,3 @@ Click on Submit below the IDE to know the result. Then click on next to continue
 '''
 
 print(12)
-
-'''
-Task:- 
-Replace the _ (underscores) in the editor with the text I love Python and Submit.
-'''
-
-'''
-Replace print(___) with print("I love Python")
-'''
-
-print("I love Python")
